@@ -1,0 +1,1 @@
+http_header: "Content-Security-Policy: frame-ancestors 'self' *;"
