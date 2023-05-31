@@ -1,1 +1,1 @@
-http_header: "Content-Security-Policy: frame-ancestors 'self' *;"
+http_header: "Content-Security-Policy: frame-ancestors 'self' *; frame-src 'self' *;"
